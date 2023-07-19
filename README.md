@@ -1,0 +1,2 @@
+# longshotai-assignment
+fastapi-mongodb
